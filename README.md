@@ -12,7 +12,7 @@
 - Engineering education
 
 ## Academic experiences
-**Foreigner Research Collaborator, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present)**
+**Foreigner Research Collaborator, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present_)**
 - Conduct research in medical image segmentation using pediatric ultrasound images
 
 ## Programming skills 
@@ -21,8 +21,11 @@
 - LaTeX
 
 ## Conference papers
-- Luis R. Aliendre Santivanez, "Graduation terminal efficacy, Electrical and Electronic Engineering Program", Electrical and Electronic Engineering Program Academic Journals, Oruro, Bolivia, (_December 2021_)
+- Luis R. Aliendre-Santivanez, "Graduation terminal efficacy, Electrical and Electronic Engineering Program", Electrical and Electronic Engineering Program Academic Journals, Oruro, Bolivia, (_December 2021_)
 
 ## Publications
+- Luis R. Aliendre-Santivanez and Ramiro F. Aliendre-Garcia. "Frequency Signal Convolution using MATLAB", in Engineering Journal, vol. 15, No. 1, 2022, ISSN 2412-236X
 
+## Volunteer Activities
+-
 
