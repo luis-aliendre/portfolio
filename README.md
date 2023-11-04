@@ -12,4 +12,17 @@
 - Engineering education
 
 ## Academic experiences
+**Foreigner Research Collaborator, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present)**
+- Conduct research in medical image segmentation using pediatric ultrasound images
+
+## Programming skills 
+- MATLAB
+- Python
+- LaTeX
+
+## Conference papers
+- Luis R. Aliendre Santivanez, "Graduation terminal efficacy, Electrical and Electronic Engineering Program", Electrical and Electronic Engineering Program Academic Journals, Oruro, Bolivia, (_December 2021_)
+
+## Publications
+
 
