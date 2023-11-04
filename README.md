@@ -27,5 +27,12 @@
 - Luis R. Aliendre-Santivanez and Ramiro F. Aliendre-Garcia. "Frequency Signal Convolution using MATLAB", in Engineering Journal, vol. 15, No. 1, 2022, ISSN 2412-236X
 
 ## Volunteer Activities
--
+- IEEE Reading Club, Young Professionals Region 9, Organizer, 2022
+- IEEE Reading Club, Young Professionals Region 9, Volunteer, 2021
+
+## Academic Affiliations
+**IEEE Member**
+  - Communications Society (COMSOC)
+  - Signal Processing Society (SPS)
+  - Medicine and Biology Society (EMBS)
 
