@@ -16,7 +16,7 @@
 - **Research Collaborator: Medical image processing,** Conduct research in medical image segmentation using pediatric ultrasound images
 
 **_Lecturer_, Technical University of Oruro, National Faculty of Engineering (_March 2022_)**
-- **Workshop: LaTeX for engineering students,** show LaTeX fundamentals to engineering students and its applications as a research tool
+- **Workshop: LaTeX for engineering students,** Show LaTeX fundamentals to engineering students and its applications as a research tool
 
 **_Organizer_, Technical University of Oruro, National Faculty of Engineering (_November 2021_)**
 - **Course: Initial MATLAB, R2021b,** Structuring the course's academic syllabus
