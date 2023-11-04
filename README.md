@@ -21,10 +21,10 @@
 - LaTeX
 
 ## Conference papers
-- Luis R. Aliendre-Santivanez, "Graduation terminal efficacy, Electrical and Electronic Engineering Program", Electrical and Electronic Engineering Program Academic Journals, Oruro, Bolivia, (_December 2021_)
+- Luis R. Aliendre-Santiváñez, "Graduation terminal efficacy, Electrical and Electronic Engineering Program", Electrical and Electronic Engineering Program Academic Journals, Oruro, Bolivia, (_December 2021_)
 
 ## Publications
-- Luis R. Aliendre-Santivanez and Ramiro F. Aliendre-Garcia. "Frequency Signal Convolution using MATLAB", in Engineering Journal, vol. 15, No. 1, 2022, ISSN 2412-236X
+- Luis R. Aliendre-Santiváñez and Ramiro F. Aliendre-García. "Frequency Signal Convolution using MATLAB", in Engineering Journal, vol. 15, No. 1, 2022, ISSN 2412-236X
 
 ## Volunteer Activities
 - IEEE Reading Club, Young Professionals Region 9, Organizer, 2022
