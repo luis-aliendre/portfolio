@@ -14,26 +14,32 @@
 ## Academic experiences
 **_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present_)**
 - **Research Collaborator: Medical image processing**
+
   Conduct research in medical image segmentation using pediatric ultrasound images
 
 **_Lecturer_, Technical University of Oruro, National Faculty of Engineering (_March 2022_)**
 - **Workshop: LaTeX for engineering students**
+
   Show LaTeX fundamentals to engineering students and its applications as a research tool
 
 **_Organizer_, Technical University of Oruro, National Faculty of Engineering (_November 2021_)**
 - **Course: Initial MATLAB, R2021b**
+
   Structuring the course's academic syllabus
 
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_July 2018 - December 2019_)**
 - **Course: Telecommunications I**
+
   Explain the functioning of telephone networks; show the fundamentals of traffic engineering; show how telephone centrals and commutation work;     present an introduction to mobile telephony
 
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_February 2018 - June 2018_)**
 - **Course: Computer Networks**
+
   Explain the fundamentals of computer network; show the OSI model and communication protocols; demonstrate network theory and design; introduce to   network operating systems
 
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_February 2016 - December 2017_)**
 - **Course: Drafting - Oratory and Leadership**
+
   Explain scientific drafting concepts; demonstrate oratory techniques, oral and corporal expression; analyze a leader's features and the solving conflicts' method
 
 ## Programming skills 
