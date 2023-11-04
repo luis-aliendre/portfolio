@@ -5,7 +5,7 @@
 #theme: jekyll-theme-minimal
 
 title: Your awesome title
-##logo: /assets/img/ProfilePic.jpeg 
+logo: /assets/img/ProfilePic.jpeg 
 author:
   name: GitHub User
   email: your-email@domain.com
