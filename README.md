@@ -4,7 +4,7 @@
 - Electronic Engineer, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
 
 ## Honors and awards
-- Graduated with Honors. Among the 5% of Electrical and Electronic Engineering Program's Students graduated with Academic Excellence
+- Graduated with Honors. Among the 5% of Electrical and Electronic Engineering Program's students graduated with Academic Excellence
 
 ## Research interest
 - Digital image processing
@@ -35,7 +35,7 @@
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_February 2018 - June 2018_)**
 - **Course: Computer Networks**
 
-  Explain the fundamentals of computer network; show the OSI model and communication protocols; demonstrate network theory and design; introduce to   network operating systems
+  Explain the fundamentals of computer networks; show the OSI model and communication protocols; demonstrate network theory and design; introduce to   network operating systems
 
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_February 2016 - December 2017_)**
 - **Course: Drafting - Oratory and Leadership**
