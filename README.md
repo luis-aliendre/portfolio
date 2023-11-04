@@ -58,7 +58,7 @@
 - IEEE Reading Club, Young Professionals Region 9, Volunteer, 2021
 
 ## Academic Affiliations
-**IEEE Member**
+  **IEEE Member**
   - Communications Society (COMSOC)
   - Signal Processing Society (SPS)
   - Medicine and Biology Society (EMBS)
