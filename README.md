@@ -1,9 +1,15 @@
-### Page under construction
+## Page under construction
 
-#Electronic engineer
+## Education 
+- Electronic Engineer, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
 
-### Education
-Electronic Engineer
+## Honors and awards
+- Graduated with Honors. Among the 5% of Electrical and Electronic Engineering Program's Students graduated with Academic Excellence
 
-### Previous experience
-BioData Foreigner research collaborator
+## Research interest
+- Digital image processing
+- Medical image processing
+- Engineering education
+
+## Academic experiences
+
