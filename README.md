@@ -13,7 +13,7 @@
 
 ## Academic experiences
 **_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present_)**
-- Conduct research in medical image segmentation using pediatric ultrasound images
+- **Research Collaborator: Medical image processing,** Conduct research in medical image segmentation using pediatric ultrasound images
 
 **_Lecturer_, Technical University of Oruro, National Faculty of Engineering (_March 2022_)**
 - **Workshop: LaTeX for engineering students,** show LaTeX fundamentals to engineering students and its applications as a research tool
