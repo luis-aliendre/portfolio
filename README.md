@@ -65,3 +65,4 @@
 
 ### Useful links
 A copy of my CV is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/CV/LuisAliendreCV.pdf)
+Email contact: [luis.aliendre@fni.uto.edu.bo](luis.aliendre@fni.uto.edu.bo)
