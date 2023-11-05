@@ -62,6 +62,7 @@
   - Communications Society (COMSOC)
   - Signal Processing Society (SPS)
   - Medicine and Biology Society (EMBS)
+
 ### Useful links
 A copy of my CV is available here: (https://github.com/luis-aliendre/portfolio/blob/main/files/CV/LuisAliendreCV.pdf)
 
