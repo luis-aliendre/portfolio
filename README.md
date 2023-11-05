@@ -30,7 +30,7 @@
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_July 2018 - December 2019_)**
 - **Course: Telecommunications I**
 
-  Explain the functioning of telephone networks; show the fundamentals of traffic engineering; show how telephone centrals and commutation work;     present an introduction to mobile telephony
+  Explain the functioning of telephone networks; show the fundamentals of traffic engineering; show how telephone and communtation centrals work;     present an introduction to mobile telephony
 
 **_Teaching Assistant_, Technical University of Oruro, National Faculty of Engineering (_February 2018 - June 2018_)**
 - **Course: Computer Networks**
