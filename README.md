@@ -1,5 +1,3 @@
-# Page under construction
-
 ## Education 
 - **Electronic Engineer**, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
 
