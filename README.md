@@ -66,4 +66,6 @@
 ### Useful links
 A copy of my CV is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/CV/LuisAliendreCV.pdf)
 
+A copy of the conference paper "Graduation terminal efficacy, Electrical and Electronic Engineering Program" is available [here]()
+
 Email contact: luis.aliendre@fni.uto.edu.bo
