@@ -52,8 +52,8 @@
 - Luis R. Aliendre-Santiváñez and Ramiro F. Aliendre-García. "Frequency Signal Convolution using MATLAB", in Engineering Journal, vol. 15, No. 1, 2022, ISSN 2412-236X
 
 ## Volunteer Activities
-- IEEE Reading Club, Young Professionals Region 9, Organizer, 2022
-- IEEE Reading Club, Young Professionals Region 9, Volunteer, 2021
+- IEEE Reading Club, Young Professionals Region 9, Organizer, (_March 2022  - June 2022_)
+- IEEE Reading Club, Young Professionals Region 9, Volunteer, (_October 2021 - December 2021_)
 
 ## Academic Affiliations
   **IEEE Member**
