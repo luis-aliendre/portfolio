@@ -14,7 +14,6 @@
 - **Research Collaborator: Medical image processing**
 
   Conduct research in medical image segmentation using pediatric ultrasound images
-  Search for lightweight CNN architectures
 
 **_Lecturer_, Technical University of Oruro, National Faculty of Engineering (_March 2022_)**
 - **Workshop: LaTeX for engineering students**
