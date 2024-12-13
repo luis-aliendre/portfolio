@@ -1,7 +1,9 @@
 ## Education 
-- **Electronic Engineer**, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
+- **MS, Biomedical Engineering**, Rochester Institute of Technology, Kate Gleason College of Engineering (_Graduation Spring 2025_)
+- **BS, Electronic Engineering**, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
 
 ## Honors and awards
+- Fulbright Scholar. Bolivian Fulbright Scholar.
 - Graduated with Honors. Among the 5% of Electrical and Electronic Engineering Program's students graduated with Academic Excellence
 
 ## Research interest
@@ -10,10 +12,10 @@
 - Engineering education
 
 ## Academic experiences
-**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - Present_)**
+**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - June 2024)**
 - **Research Collaborator: Medical image processing**
 
-  Conduct research in medical image segmentation using pediatric ultrasound images
+  Conduct research in medical image segmentation using cardiac ultrasound images
 
 **_Lecturer_, Technical University of Oruro, National Faculty of Engineering (_March 2022_)**
 - **Workshop: LaTeX for engineering students**
