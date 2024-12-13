@@ -70,4 +70,4 @@ A copy of the conference paper "Graduation terminal efficacy, Electrical and Ele
 
 A copy of the journal paper "Frequency Signal Convolution using MATLAB" is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/JournalPaper/Frequency_Signal_Convolution_Using_MATLAB.pdf)
 
-Email contact: la9631@g.rit.edu
+Email contact: [la9631@g.rit.edu](la9631@g.rit.edu)
