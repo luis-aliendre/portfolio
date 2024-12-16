@@ -1,5 +1,5 @@
 ## Education 
-- **MS, Biomedical Engineering**, Rochester Institute of Technology, Kate Gleason College of Engineering (_Graduation Spring 2025_)
+- **MS, Biomedical Engineering**, Rochester Institute of Technology, Kate Gleason College of Engineering (_Graduation: Spring 2025_)
 - **BS, Electronic Engineering**, Technical University of Oruro, National Faculty of Engineering (_December 2019_)
 
 ## Honors and awards
@@ -12,7 +12,7 @@
 - Engineering education
 
 ## Academic experiences
-**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (March 2023 - June 2024)**
+**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - June 2024_)**
 - **Research Collaborator: Medical image processing**
 
   Conduct research in medical image segmentation using cardiac ultrasound images
