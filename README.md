@@ -12,7 +12,7 @@
 - Engineering education
 
 ## Academic experiences
-**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (_March 2023 - June 2024)**
+**_Foreigner Research Collaborator_, Federal University of Ceará, Postgraduate Program in Teleinformatics Engineering, BioData Analytics Research Group (March 2023 - June 2024)**
 - **Research Collaborator: Medical image processing**
 
   Conduct research in medical image segmentation using cardiac ultrasound images
