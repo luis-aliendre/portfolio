@@ -64,8 +64,7 @@
   - Medicine and Biology Society (EMBS)
 
 ### Useful links
-A copy of my CV is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/CV/Luis_Aliendre_CV_F.pdf)
-
+A copy of my CV is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/CV/CV_Luis_Aliendre.pdf)
 A copy of the conference paper "Graduation terminal efficacy, Electrical and Electronic Engineering Program" is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/ConferencePaper/Graduation_Terminal_Efficacy_Electrical_and_Electronic_Engineering_Program.pdf)
 
 A copy of the journal paper "Frequency Signal Convolution using MATLAB" is available [here](https://github.com/luis-aliendre/portfolio/blob/main/files/JournalPaper/Frequency_Signal_Convolution_Using_MATLAB.pdf)
