@@ -9,6 +9,7 @@
 ## Research interest
 - Digital image processing
 - Medical image processing
+- Data Science
 - Engineering education
 
 ## Soft skills
